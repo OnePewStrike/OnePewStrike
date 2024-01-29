@@ -1,9 +1,7 @@
-<h2><img src="assets/images/curious_cat_1.png" width="50"> Hi, I'm Godwin </h1>
+### <img src="assets/images/curious_cat_1.png" width="50"> Hi, I'm Godwin </h1>
 <em>4th Year Computer Science student at <a href="su.edu.ph/">Silliman University</a>💢 </em>
-<br>
-<em>Pretty much more ☕ and less 💤 </em>
-
 <br />
+<em>Pretty much more ☕ and less 💤 </em>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/onimur)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
