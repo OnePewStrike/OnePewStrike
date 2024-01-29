@@ -1,6 +1,8 @@
-<code><h2><img src="assets/images/curious_cat_1.png" width="50"> Hi, I'm Godwin </h1></code>
 <code>
-  <em>4th Year Computer Science student at <a href="su.edu.ph/">Silliman University</a>💢<br>
+  <h2><img src="assets/images/curious_cat_1.png" width="50"> Hi, I'm Godwin </h1></code>
+<code>
+  <em>4th Year Computer Science student at <a href="su.edu.ph/">Silliman University</a>💢
+  <br>
   Pretty much more ☕ and less 💤 </em>
 </code>
 
