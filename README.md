@@ -10,6 +10,7 @@
 >👋 Hello! I do UI/UX design and mainly software development, but I can also do statistics 💯
 
 <h3> Tech Stack 💪 </h3>
+<hr>
 <div style="display:flex; gap:1em;">
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
@@ -22,9 +23,8 @@
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
   <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg"/>
 </div>
-<hr>
 
-<h3> Get Connected </h3>
+<h3> Get Connected 🏃 </h3>
 <hr>
 
 Take your time and let's get in touch. [Click here](https://github.com/OnePewStrike).
@@ -37,7 +37,7 @@ Take your time and let's get in touch. [Click here](https://github.com/OnePewStr
 
 <h3> Github Stats 👇 </h3>
 <hr>
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=OnePewStrike&theme=midnight-purple&show_icons=true" alt="Github Statistics">
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=OnePewStrike&theme=midnight-purple&show_icons=true" alt="Github Statistics">
 
 
 
