@@ -30,7 +30,7 @@
 
 ### Get Connected 🏃
 
-Take your time and let's get in touch. [Click here](https://github.com/OnePewStrike](https://godoin.github.io/StaticContactPage/).
+Take your time and let's get in touch. [Click here](https://godoin.github.io/StaticContactPage/)
 
 <!--
 <div style="display:flex; gap:1em;">
