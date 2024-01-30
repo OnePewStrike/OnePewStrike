@@ -1,4 +1,5 @@
-### <img src="assets/images/curious_cat_1.png" width="50"> Hi, I'm Godwin </h1>
+### <img src="assets/images/curious_cat_1.png" width="50"> Hi, I'm Godwin 
+
 <em>4th Year Computer Science student at <a href="su.edu.ph/">Silliman University</a>💢 </em>
 <br />
 <em>Pretty much more ☕ and less 💤 </em>
@@ -29,17 +30,20 @@
 
 ### Get Connected 🏃
 
-Take your time and let's get in touch. [Click here](https://github.com/OnePewStrike).
+Take your time and let's get in touch. [Click here](https://github.com/OnePewStrike](https://godoin.github.io/StaticContactPage/).
 
+<!--
 <div style="display:flex; gap:1em;">
   <a href="https://www.linkedin.com/in/godwin-duliente/"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
   <a href="https://github.com/OnePewStrike"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
   <a href="#"><img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
 </div>
 
+
 <br />
 
 #
+-->
 
 ### Github Stats 👇
 
