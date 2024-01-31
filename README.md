@@ -51,7 +51,7 @@ Take your time and let's get in touch. [Click here](https://godoin.github.io/Sta
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=OnePewStrike&theme=midnight-purple&show_icons=true" alt="Github Statistics">
 
-#### I love cats so here are some vibing ones:
+#### I love cats so here are some stickers:
 <div style="display:flex; gap:1em;">
   <img src="assets/gifs/cat_vibing.gif" width="50px"> 
   <img src="assets/gifs/cat_vibing_1.gif" width="50px"> 
