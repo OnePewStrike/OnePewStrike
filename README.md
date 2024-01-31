@@ -48,18 +48,17 @@ Take your time and let's get in touch. [Click here](https://godoin.github.io/Sta
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=OnePewStrike&theme=midnight-purple&show_icons=true" alt="Github Statistics">
 
-<br />
 
 ##### I love cats, some vibing cats:
 
-<img src="assets/gifs/cat_vibing.gif" width="50"> 
-<img src="assets/gifs/cat_vibing_1.gif" width="50"> 
-<img src="assets/gifs/cat_vibing_2.gif" width="50"> 
-<img src="assets/gifs/cat_vibing_3.gif" width="50"> 
-<img src="assets/gifs/cat_vibing_4.gif" width="50"> 
-<img src="assets/gifs/cat_vibing_5.gif" width="50"> 
-<img src="assets/gifs/cat_vibing_6.gif" width="50"> 
-<img src="assets/gifs/cat_vibing_7.gif" width="50"> 
+<img src="assets/gifs/cat_vibing.gif" aign="left" width="50"> 
+<img src="assets/gifs/cat_vibing_1.gif" aign="left" width="50"> 
+<img src="assets/gifs/cat_vibing_2.gif" aign="left" width="50"> 
+<img src="assets/gifs/cat_vibing_3.gif" aign="left" width="50"> 
+<img src="assets/gifs/cat_vibing_4.gif" aign="left" width="50"> 
+<img src="assets/gifs/cat_vibing_5.gif" aign="left" width="50"> 
+<img src="assets/gifs/cat_vibing_6.gif" aign="left" width="50"> 
+<img src="assets/gifs/cat_vibing_7.gif" aign="left" width="50"> 
 
 <!-- <p align="center" style="font-style:italic;">Hii</p> -->
 
