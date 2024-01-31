@@ -51,14 +51,14 @@ Take your time and let's get in touch. [Click here](https://godoin.github.io/Sta
 
 ##### I love cats, some vibing cats:
 
-<img src="assets/gifs/cat_vibing.gif" aign="left" width="50"> 
-<img src="assets/gifs/cat_vibing_1.gif" aign="left" width="50"> 
-<img src="assets/gifs/cat_vibing_2.gif" aign="left" width="50"> 
-<img src="assets/gifs/cat_vibing_3.gif" aign="left" width="50"> 
-<img src="assets/gifs/cat_vibing_4.gif" aign="left" width="50"> 
-<img src="assets/gifs/cat_vibing_5.gif" aign="left" width="50"> 
-<img src="assets/gifs/cat_vibing_6.gif" aign="left" width="50"> 
-<img src="assets/gifs/cat_vibing_7.gif" aign="left" width="50"> 
+<img src="assets/gifs/cat_vibing.gif" align="left" width="50px"> 
+<img src="assets/gifs/cat_vibing_1.gif" align="left" width="50px"> 
+<img src="assets/gifs/cat_vibing_2.gif" align="left" width="50px"> 
+<img src="assets/gifs/cat_vibing_3.gif" align="left" width="50px"> 
+<img src="assets/gifs/cat_vibing_4.gif" align="left" width="50px"> 
+<img src="assets/gifs/cat_vibing_5.gif" align="left" width="50px"> 
+<img src="assets/gifs/cat_vibing_6.gif" align="left" width="50px"> 
+<img src="assets/gifs/cat_vibing_7.gif" align="left" width="50px"> 
 
 <!-- <p align="center" style="font-style:italic;">Hii</p> -->
 
