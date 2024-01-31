@@ -1,13 +1,12 @@
-### <img src="assets/gifs/cat_vibing.gif" width="30" style="margin-bottom: -5px;"> Hi, I'm Godwin
-
-
+### Hi, I'm Godwin
 <em>4th Year Computer Science student at <a href="su.edu.ph/">Silliman University</a>💢 </em>
-<br />
 <em>Pretty much more ☕ and less 💤 </em>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/OnePewStrike)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/godwin-duliente/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rualgodwin@gmail.com)
+
+<hr>
 
 >👋 Hello! I do UI/UX design and mainly software development, but I can also do statistics 💯
 
@@ -27,7 +26,6 @@
 
 <br />
 
-#
 
 ### Get Connected 🏃
 
@@ -50,7 +48,18 @@ Take your time and let's get in touch. [Click here](https://godoin.github.io/Sta
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=OnePewStrike&theme=midnight-purple&show_icons=true" alt="Github Statistics">
 
+<br />
 
+##### I love cats, some vibing cats:
+
+<img src="assets/gifs/cat_vibing.gif" width="50"> 
+<img src="assets/gifs/cat_vibing_1.gif" width="50"> 
+<img src="assets/gifs/cat_vibing_2.gif" width="50"> 
+<img src="assets/gifs/cat_vibing_3.gif" width="50"> 
+<img src="assets/gifs/cat_vibing_4.gif" width="50"> 
+<img src="assets/gifs/cat_vibing_5.gif" width="50"> 
+<img src="assets/gifs/cat_vibing_6.gif" width="50"> 
+<img src="assets/gifs/cat_vibing_7.gif" width="50"> 
 
 <!-- <p align="center" style="font-style:italic;">Hii</p> -->
 
