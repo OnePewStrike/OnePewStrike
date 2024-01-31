@@ -1,5 +1,7 @@
 # <img src="assets/gifs/cool_cat.gif" align="left" width="50px"> Hi, I'm Godwin
 
+<br />
+
 <em>4th Year Computer Science student at <a href="su.edu.ph/">Silliman University</a>💢</em>
 <br/>
 <em>Pretty much more ☕ and less 💤 </em>
@@ -50,6 +52,8 @@ Take your time and let's get in touch. [Click here](https://godoin.github.io/Sta
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=OnePewStrike&theme=midnight-purple&show_icons=true" alt="Github Statistics">
 
 <br />
+
+### I love cats so here are some vibing ones:
 <div style="display:flex; gap:1em;">
   <img src="assets/gifs/cat_vibing.gif" width="50px"> 
   <img src="assets/gifs/cat_vibing_1.gif" width="50px"> 
