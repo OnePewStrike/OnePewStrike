@@ -47,7 +47,7 @@ Take your time and let's get in touch. [Click here](https://godoin.github.io/Sta
 
 ### Github Stats 👇
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api?username=OnePewStrike&theme=midnight-purple&show_icons=true" alt="Github Statistics">
+<img width="60%" src="https://github-readme-stats.vercel.app/api?username=godoin&theme=midnight-purple&show_icons=true" alt="Github Statistics">
 
 #### I love cats so here are some stickers:
 <div style="display:flex; gap:1em;">
