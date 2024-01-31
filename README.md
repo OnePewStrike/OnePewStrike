@@ -1,4 +1,5 @@
-### <img src="assets/images/curious_cat_1.png" width="50"> Hi, I'm Godwin 
+### <img src="assets/gifs/cat_vibing.gif" width="30" style="margin-bottom: -5px;"> Hi, I'm Godwin
+
 
 <em>4th Year Computer Science student at <a href="su.edu.ph/">Silliman University</a>💢 </em>
 <br />
