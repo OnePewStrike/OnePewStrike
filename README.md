@@ -1,10 +1,7 @@
-<img src="assets/gifs/cool_cat.gif" align="left" width="50px"> 
-
-<br />
-
-### Hi, I'm Godwin
+# <img src="assets/gifs/cool_cat.gif" align="left" width="50px"> Hi, I'm Godwin
 
 <em>4th Year Computer Science student at <a href="su.edu.ph/">Silliman University</a>💢</em>
+<br/>
 <em>Pretty much more ☕ and less 💤 </em>
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/OnePewStrike)
@@ -52,20 +49,22 @@ Take your time and let's get in touch. [Click here](https://godoin.github.io/Sta
 
 <img width="60%" src="https://github-readme-stats.vercel.app/api?username=OnePewStrike&theme=midnight-purple&show_icons=true" alt="Github Statistics">
 
-#
+<br />
+<div style="display:flex; gap:1em;">
+  <img src="assets/gifs/cat_vibing.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_1.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_2.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_3.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_4.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_6.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_7.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_8.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_9.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_10.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_11.gif" width="50px">   
+</div>
 
-<img src="assets/gifs/cat_vibing.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_1.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_2.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_3.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_4.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_5.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_6.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_7.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_8.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_9.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_10.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_11.gif" align="left" width="50px"> 
 
 
 <!-- <p align="center" style="font-style:italic;">Hii</p> -->
