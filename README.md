@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rualgodwin@gmail.com)
 
 
-👋 Hello! I do UI/UX design and mainly software development, but I can also do statistics 💯
+> 👋 Hello! I do UI/UX design and mainly software development, but I can also do statistics 💯
 
 ### Tech Stack 💪 
 
