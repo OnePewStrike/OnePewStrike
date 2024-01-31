@@ -1,4 +1,7 @@
-### Hi, I'm Godwin
+### <img src="assets/gifs/cool_cat.gif" align="left" width="40px">  Hi, I'm Godwin
+
+<br />
+
 <em>4th Year Computer Science student at <a href="su.edu.ph/">Silliman University</a>💢 </em>
 <em>Pretty much more ☕ and less 💤 </em>
 
@@ -51,14 +54,14 @@ Take your time and let's get in touch. [Click here](https://godoin.github.io/Sta
 
 ##### I love cats, some vibing cats:
 
-<img src="assets/gifs/cat_vibing.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_1.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_2.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_3.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_4.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_5.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_6.gif" align="left" width="50px"> 
-<img src="assets/gifs/cat_vibing_7.gif" align="left" width="50px"> 
+<img src="assets/gifs/cat_vibing.gif" width="50" align="top" style="margin-right:10px">
+<img src="assets/gifs/cat_vibing_1.gif" width="50" align="top" style="margin-right:10px">
+<img src="assets/gifs/cat_vibing_2.gif" width="50" align="top" style="margin-right:10px">
+<img src="assets/gifs/cat_vibing_3.gif" width="50" align="top" style="margin-right:10px">
+<img src="assets/gifs/cat_vibing_4.gif" width="50" align="top" style="margin-right:10px">
+<img src="assets/gifs/cat_vibing_5.gif" width="50" align="top" style="margin-right:10px">
+<img src="assets/gifs/cat_vibing_6.gif" width="50" align="top" style="margin-right:10px">
+
 
 <!-- <p align="center" style="font-style:italic;">Hii</p> -->
 
