@@ -1,7 +1,5 @@
 # <img src="assets/gifs/cool_cat.gif" align="left" width="50px"> Hi, I'm Godwin
 
-<br />
-
 <em>4th Year Computer Science student at <a href="su.edu.ph/">Silliman University</a>💢</em>
 <br/>
 <em>Pretty much more ☕ and less 💤 </em>
