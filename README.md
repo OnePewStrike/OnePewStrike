@@ -46,11 +46,11 @@ Take your time and let's get in touch. [Click here](https://godoin.github.io/Sta
 #
 -->
 
-### Github Stats 👇
+### Stats 👇
 
 ![Godwin's Github Stats](https://github-readme-stats.vercel.app/api?username=godoin&theme=midnight-purple&show_icons=true)
 
-<!-- [![Godwin's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=godoin&theme=godoin&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Godwin's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=godoin&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 #### I love cats so here are some stickers:
 <div style="display:flex; gap:1em;">
