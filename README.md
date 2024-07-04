@@ -1,6 +1,6 @@
 # <img src="assets/gifs/cool_cat.gif" align="left" width="50px"> Hi, I'm Godwin
 
-<em>Computer Science Graduate from <a href="#">Silliman University</a>💢</em>
+<em>Computer Science Graduate</em>
 <br/>
 <em>Pretty much more ☕ and less 💤 </em>
 
@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rualgodwin@gmail.com)
 
 
-> 👋 Hi! I can do UI/UX design and mainly software development.
+> 👋 Hi! I can both do design and mostly software development.
 
 ### Tech Stack 💪 
 
