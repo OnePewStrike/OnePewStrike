@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rualgodwin@gmail.com)
 
 
-> 👋 Hi! I can both do design and mostly software development.
+> 👋 Hi! I do design and software development.
 
 ### Tech Stack 💪 
 
@@ -52,6 +52,20 @@ Take your time and let's get in touch. [Click here](https://godoin.github.io/Sta
 
 #### I love cats so here are some stickers:
 <div style="display:flex; gap:1em;">
+  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
+  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
+</div>
+
+<!--
+<div style="display:flex; gap:1em;">
   <img src="assets/gifs/cat_vibing.gif" width="50px"> 
   <img src="assets/gifs/cat_vibing_1.gif" width="50px"> 
   <img src="assets/gifs/cat_vibing_2.gif" width="50px"> 
@@ -65,7 +79,7 @@ Take your time and let's get in touch. [Click here](https://godoin.github.io/Sta
   <img src="assets/gifs/cat_vibing_10.gif" width="50px"> 
   <img src="assets/gifs/cat_vibing_11.gif" width="50px">   
 </div>
-
+-->
 
 
 <!-- <p align="center" style="font-style:italic;">Hii</p> -->
